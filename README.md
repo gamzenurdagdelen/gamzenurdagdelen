@@ -1,38 +1,54 @@
 
 ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
+# 🚀 Gamze Nur Dağdelen | Computer Engineer  
 
-🚀 Professional Summary
+**Welcome to my GitHub!** I'm a Computer Engineer with experience in **SAP, .NET, and React**, specializing in **ERP process optimization, data integration, and business intelligence (BI)**. Passionate about learning new technologies and enhancing software solutions through **research-driven development**.
 
-I am a Computer Engineer with experience in SAP, .NET, and React technologies, focusing on ERP process optimization, data integration, and business intelligence (BI). With three years of industry experience, I have been involved in various enterprise projects while also continuing my academic journey in Information Systems. I enjoy learning about new technologies and applying both technical knowledge and research insights to improve software solutions.
+---
 
-🎓 Academic Background
+## 🎓 Academic Background  
+📚 **Master’s Degree in Information Systems** | *Hacettepe University (2023-2025)*  
+🔍 Exploring **data management, enterprise systems, and digital transformation**  
 
-Master’s Degree in Information Systems (Hacettepe University, 2023-2025)
-Exploring data management, enterprise systems, and digital transformation
-Bachelor’s Degree in Computer Engineering (Cankaya University, 2017-2022)
-50% Success Scholarship
-Gained experience in software development, database systems, and business intelligence
+🎓 **Bachelor’s Degree in Computer Engineering** | *Cankaya University (2017-2022)*  
+🏅 50% Success Scholarship | Focused on **software development, databases, and BI**  
 
-🔧 Core Competencies
+---
 
-SAP & ERP: Developing customer-specific add-ons with SAP Business One SDK to improve workflows.
-.NET & React: Creating functional and user-friendly web applications.
-Data Management & BI: Working with SQL, Oracle, and Power BI to enhance data analysis and reporting.
-Agile & Research-Driven Development: Applying Agile methodologies and research-based approaches to software projects.
+## 🔧 Core Skills  
+✅ **SAP & ERP:** Developing SAP Business One add-ons to enhance workflows.  
+✅ **.NET & React:** Building efficient, user-friendly web applications.  
+✅ **Data & BI:** SQL, Oracle & Power BI for data analytics & reporting.  
+✅ **Agile Development:** Working with Agile & research-based methodologies.  
 
-🏆 Key Achievements
+---
 
-Contributed to ERP process improvements by developing SAP Business One enhancements.
-Helped optimize user experience and system performance through projects using React and .NET.
-Built BI-powered reporting systems with SQL and Power BI to support data-driven decision-making.
-Worked on usability research and interface evaluations to enhance design strategies.
+## 🏆 Key Achievements  
+🚀 **ERP Enhancements:** Improved business processes with SAP Business One SDK.  
+🚀 **Web Applications:** Developed **React & .NET** projects optimizing UX & performance.  
+🚀 **BI Solutions:** Built **SQL & Power BI** reporting systems for data-driven decisions.  
+🚀 **UX Research:** Conducted usability studies for better interface design.  
 
-💡 Technologies & Tools
+---
 
-Backend: .NET Framework, REST API, SAP, Node.js
-Frontend: React, JavaScript, HTML, CSS, Figma
-Database & BI: SQL, PostgreSQL, Oracle, Power BI
-DevOps & Tools: Docker, Bitbucket, GitHub, Jira
+## 💡 Technologies & Tools  
+**🔹 Backend:** .NET Framework, REST API, SAP, Node.js  
+**🔹 Frontend:** React, JavaScript, HTML, CSS, Figma  
+**🔹 Database & BI:** SQL, PostgreSQL, Oracle, Power BI  
+**🔹 DevOps & Tools:** Docker, Bitbucket, GitHub, Jira  
 
-📢 I am always eager to learn, improve, and contribute to projects that enhance efficiency and user experience! 🚀
+---
+
+## 📊 GitHub Stats  
+
+![Gamze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamzenurdagdelen&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzenurdagdelen&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let's Connect!  
+📌 **LinkedIn:** [Gamze Nur Dağdelen](https://www.linkedin.com/in/gamzenurdagdelen)  
+📌 **GitHub:** [@gamzenurdagdelen](https://github.com/gamzenurdagdelen)  
+
+🚀 **Always eager to learn, improve, and contribute to innovative projects!**  

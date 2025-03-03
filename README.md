@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Let's Connect!  
-📌 **LinkedIn:** [Gamze Nur Dağdelen](https://www.linkedin.com/in/gamzenurdagdelen)  
+📌 **LinkedIn:** [Gamze Nur Dağdelen](linkedin.com/in/gamzedagdelen)  
 📌 **Medium:** [@gamzenurdagdelen](https://medium.com/@gmznrdagdelen)  
 
 🚀 **Always eager to learn, improve, and contribute to innovative projects!**  

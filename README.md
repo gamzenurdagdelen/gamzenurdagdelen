@@ -1,5 +1,4 @@
-
-                                       ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+ ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 
 # 🚀 Gamze Nur Dağdelen | Computer Engineer  
 

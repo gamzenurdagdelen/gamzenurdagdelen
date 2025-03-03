@@ -40,15 +40,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Gamze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamzenurdagdelen&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzenurdagdelen&layout=compact&theme=radical)  
-
----
-
 ## 📫 Let's Connect!  
 📌 **LinkedIn:** [Gamze Nur Dağdelen](https://www.linkedin.com/in/gamzenurdagdelen)  
-📌 **GitHub:** [@gamzenurdagdelen](https://github.com/gamzenurdagdelen)  
+📌 **Medium:** [@gamzenurdagdelen](https://medium.com/@gmznrdagdelen)  
 
 🚀 **Always eager to learn, improve, and contribute to innovative projects!**  
